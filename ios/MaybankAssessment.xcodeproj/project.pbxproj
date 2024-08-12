@@ -15,6 +15,25 @@
 		72EEE0FACED3755A08589B40 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 80ABA92FE303E7AED1A70A3B /* PrivacyInfo.xcprivacy */; };
 		7699B88040F8A987B510C191 /* libPods-MaybankAssessment-MaybankAssessmentTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-MaybankAssessment-MaybankAssessmentTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		FED533772C69B3F2007AF06E /* Fontisto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FED533642C69B3F2007AF06E /* Fontisto.ttf */; };
+		FED533782C69B3F2007AF06E /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FED533652C69B3F2007AF06E /* Octicons.ttf */; };
+		FED533792C69B3F2007AF06E /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FED533662C69B3F2007AF06E /* Feather.ttf */; };
+		FED5337A2C69B3F2007AF06E /* FontAwesome6_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FED533672C69B3F2007AF06E /* FontAwesome6_Regular.ttf */; };
+		FED5337B2C69B3F2007AF06E /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FED533682C69B3F2007AF06E /* Entypo.ttf */; };
+		FED5337C2C69B3F2007AF06E /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FED533692C69B3F2007AF06E /* FontAwesome5_Brands.ttf */; };
+		FED5337D2C69B3F2007AF06E /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FED5336A2C69B3F2007AF06E /* MaterialCommunityIcons.ttf */; };
+		FED5337E2C69B3F2007AF06E /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FED5336B2C69B3F2007AF06E /* AntDesign.ttf */; };
+		FED5337F2C69B3F2007AF06E /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FED5336C2C69B3F2007AF06E /* Foundation.ttf */; };
+		FED533802C69B3F2007AF06E /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FED5336D2C69B3F2007AF06E /* Ionicons.ttf */; };
+		FED533812C69B3F2007AF06E /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FED5336E2C69B3F2007AF06E /* FontAwesome5_Solid.ttf */; };
+		FED533822C69B3F2007AF06E /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FED5336F2C69B3F2007AF06E /* FontAwesome5_Regular.ttf */; };
+		FED533832C69B3F2007AF06E /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FED533702C69B3F2007AF06E /* FontAwesome.ttf */; };
+		FED533842C69B3F2007AF06E /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FED533712C69B3F2007AF06E /* Zocial.ttf */; };
+		FED533852C69B3F2007AF06E /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FED533722C69B3F2007AF06E /* EvilIcons.ttf */; };
+		FED533862C69B3F2007AF06E /* FontAwesome6_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FED533732C69B3F2007AF06E /* FontAwesome6_Solid.ttf */; };
+		FED533872C69B3F2007AF06E /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FED533742C69B3F2007AF06E /* SimpleLineIcons.ttf */; };
+		FED533882C69B3F2007AF06E /* FontAwesome6_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FED533752C69B3F2007AF06E /* FontAwesome6_Brands.ttf */; };
+		FED533892C69B3F2007AF06E /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FED533762C69B3F2007AF06E /* MaterialIcons.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,10 +62,29 @@
 		5709B34CF0A7D63546082F79 /* Pods-MaybankAssessment.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MaybankAssessment.release.xcconfig"; path = "Target Support Files/Pods-MaybankAssessment/Pods-MaybankAssessment.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-MaybankAssessment-MaybankAssessmentTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MaybankAssessment-MaybankAssessmentTests.debug.xcconfig"; path = "Target Support Files/Pods-MaybankAssessment-MaybankAssessmentTests/Pods-MaybankAssessment-MaybankAssessmentTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-MaybankAssessment.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MaybankAssessment.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		80ABA92FE303E7AED1A70A3B /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; name = PrivacyInfo.xcprivacy; path = MaybankAssessment/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		80ABA92FE303E7AED1A70A3B /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xml; name = PrivacyInfo.xcprivacy; path = MaybankAssessment/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = MaybankAssessment/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-MaybankAssessment-MaybankAssessmentTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MaybankAssessment-MaybankAssessmentTests.release.xcconfig"; path = "Target Support Files/Pods-MaybankAssessment-MaybankAssessmentTests/Pods-MaybankAssessment-MaybankAssessmentTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		FED533642C69B3F2007AF06E /* Fontisto.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Fontisto.ttf; sourceTree = "<group>"; };
+		FED533652C69B3F2007AF06E /* Octicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Octicons.ttf; sourceTree = "<group>"; };
+		FED533662C69B3F2007AF06E /* Feather.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Feather.ttf; sourceTree = "<group>"; };
+		FED533672C69B3F2007AF06E /* FontAwesome6_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome6_Regular.ttf; sourceTree = "<group>"; };
+		FED533682C69B3F2007AF06E /* Entypo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Entypo.ttf; sourceTree = "<group>"; };
+		FED533692C69B3F2007AF06E /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Brands.ttf; sourceTree = "<group>"; };
+		FED5336A2C69B3F2007AF06E /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialCommunityIcons.ttf; sourceTree = "<group>"; };
+		FED5336B2C69B3F2007AF06E /* AntDesign.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = AntDesign.ttf; sourceTree = "<group>"; };
+		FED5336C2C69B3F2007AF06E /* Foundation.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Foundation.ttf; sourceTree = "<group>"; };
+		FED5336D2C69B3F2007AF06E /* Ionicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Ionicons.ttf; sourceTree = "<group>"; };
+		FED5336E2C69B3F2007AF06E /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Solid.ttf; sourceTree = "<group>"; };
+		FED5336F2C69B3F2007AF06E /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Regular.ttf; sourceTree = "<group>"; };
+		FED533702C69B3F2007AF06E /* FontAwesome.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome.ttf; sourceTree = "<group>"; };
+		FED533712C69B3F2007AF06E /* Zocial.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Zocial.ttf; sourceTree = "<group>"; };
+		FED533722C69B3F2007AF06E /* EvilIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = EvilIcons.ttf; sourceTree = "<group>"; };
+		FED533732C69B3F2007AF06E /* FontAwesome6_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome6_Solid.ttf; sourceTree = "<group>"; };
+		FED533742C69B3F2007AF06E /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SimpleLineIcons.ttf; sourceTree = "<group>"; };
+		FED533752C69B3F2007AF06E /* FontAwesome6_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome6_Brands.ttf; sourceTree = "<group>"; };
+		FED533762C69B3F2007AF06E /* MaterialIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialIcons.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +127,7 @@
 		13B07FAE1A68108700A75B9A /* MaybankAssessment */ = {
 			isa = PBXGroup;
 			children = (
+				FED533632C69B3F2007AF06E /* Fonts */,
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
 				13B07FB01A68108700A75B9A /* AppDelegate.mm */,
 				13B07FB51A68108700A75B9A /* Images.xcassets */,
@@ -151,6 +190,33 @@
 				89C6BE57DB24E9ADA2F236DE /* Pods-MaybankAssessment-MaybankAssessmentTests.release.xcconfig */,
 			);
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		FED533632C69B3F2007AF06E /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				FED533642C69B3F2007AF06E /* Fontisto.ttf */,
+				FED533652C69B3F2007AF06E /* Octicons.ttf */,
+				FED533662C69B3F2007AF06E /* Feather.ttf */,
+				FED533672C69B3F2007AF06E /* FontAwesome6_Regular.ttf */,
+				FED533682C69B3F2007AF06E /* Entypo.ttf */,
+				FED533692C69B3F2007AF06E /* FontAwesome5_Brands.ttf */,
+				FED5336A2C69B3F2007AF06E /* MaterialCommunityIcons.ttf */,
+				FED5336B2C69B3F2007AF06E /* AntDesign.ttf */,
+				FED5336C2C69B3F2007AF06E /* Foundation.ttf */,
+				FED5336D2C69B3F2007AF06E /* Ionicons.ttf */,
+				FED5336E2C69B3F2007AF06E /* FontAwesome5_Solid.ttf */,
+				FED5336F2C69B3F2007AF06E /* FontAwesome5_Regular.ttf */,
+				FED533702C69B3F2007AF06E /* FontAwesome.ttf */,
+				FED533712C69B3F2007AF06E /* Zocial.ttf */,
+				FED533722C69B3F2007AF06E /* EvilIcons.ttf */,
+				FED533732C69B3F2007AF06E /* FontAwesome6_Solid.ttf */,
+				FED533742C69B3F2007AF06E /* SimpleLineIcons.ttf */,
+				FED533752C69B3F2007AF06E /* FontAwesome6_Brands.ttf */,
+				FED533762C69B3F2007AF06E /* MaterialIcons.ttf */,
+			);
+			name = Fonts;
+			path = "../node_modules/react-native-vector-icons/Fonts";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -246,8 +312,27 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FED533802C69B3F2007AF06E /* Ionicons.ttf in Resources */,
+				FED533782C69B3F2007AF06E /* Octicons.ttf in Resources */,
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
+				FED533832C69B3F2007AF06E /* FontAwesome.ttf in Resources */,
+				FED533792C69B3F2007AF06E /* Feather.ttf in Resources */,
+				FED5337C2C69B3F2007AF06E /* FontAwesome5_Brands.ttf in Resources */,
+				FED533892C69B3F2007AF06E /* MaterialIcons.ttf in Resources */,
+				FED5337A2C69B3F2007AF06E /* FontAwesome6_Regular.ttf in Resources */,
+				FED533852C69B3F2007AF06E /* EvilIcons.ttf in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				FED533812C69B3F2007AF06E /* FontAwesome5_Solid.ttf in Resources */,
+				FED533882C69B3F2007AF06E /* FontAwesome6_Brands.ttf in Resources */,
+				FED5337D2C69B3F2007AF06E /* MaterialCommunityIcons.ttf in Resources */,
+				FED5337B2C69B3F2007AF06E /* Entypo.ttf in Resources */,
+				FED533862C69B3F2007AF06E /* FontAwesome6_Solid.ttf in Resources */,
+				FED533772C69B3F2007AF06E /* Fontisto.ttf in Resources */,
+				FED5337F2C69B3F2007AF06E /* Foundation.ttf in Resources */,
+				FED533822C69B3F2007AF06E /* FontAwesome5_Regular.ttf in Resources */,
+				FED5337E2C69B3F2007AF06E /* AntDesign.ttf in Resources */,
+				FED533872C69B3F2007AF06E /* SimpleLineIcons.ttf in Resources */,
+				FED533842C69B3F2007AF06E /* Zocial.ttf in Resources */,
 				72EEE0FACED3755A08589B40 /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -484,7 +569,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = my.com.maybankassessment;
 				PRODUCT_NAME = MaybankAssessment;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -510,7 +595,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = my.com.maybankassessment;
 				PRODUCT_NAME = MaybankAssessment;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -590,10 +675,7 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				USE_HERMES = true;
@@ -665,10 +747,7 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				USE_HERMES = true;
